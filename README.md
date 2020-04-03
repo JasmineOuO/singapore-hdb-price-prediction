@@ -1,1 +1,1 @@
-# singapore-hdb-price-prediction
+# Singapore Housing Price Predictor
